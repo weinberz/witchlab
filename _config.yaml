@@ -3,7 +3,8 @@
 # site properties and page defaults
 title: Witch Lab
 description: Using synthetic biology tools to understand and rewire cellular behavior
-logo: images/logo.svg
+logo: images/FlaskLogoFullLight.svg
+logo-text: false
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /witchlab
